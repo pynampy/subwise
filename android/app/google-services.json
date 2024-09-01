@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590067800093",
+    "project_id": "subwise-e3db9",
+    "storage_bucket": "subwise-e3db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590067800093:android:f4f53d80942bf30064cef4",
+        "android_client_info": {
+          "package_name": "com.naman.subwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UAmhVDv9is4CWtTr-7zmhh9XrzknSBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
